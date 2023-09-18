@@ -1,7 +1,6 @@
 # Rust stuff
 /target
 **/*.rs.bk
-Cargo.lock
 build.sh
 
 # text editing stuff
